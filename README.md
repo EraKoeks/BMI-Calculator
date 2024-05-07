@@ -4,4 +4,4 @@ Simple BMI calculator where you can input your height and your weight and the re
 What I learned?
 
 - How BMI calculator works.
-- -How to round with 2 or 1 decimals.
+- How to round with 2 or 1 decimals.
